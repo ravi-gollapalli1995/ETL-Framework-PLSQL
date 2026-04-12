@@ -1,5 +1,0 @@
-file order execution list:
-
-1.Tables.sql
-2.Sequences.sql
-3.plsql_scripts.sql
